@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikemefuna777
-- 👀 I’m interested in programming, AI, ML, Data analytics and cloud computing 
-- 🌱 I’m currently learning AI and Data analytics
+- 👀 I’m interested in programming, AI, ML, Data Analytics and cloud computing 
+- 🌱 I’m currently learning AI and Data Analytics
 - 💞️ I’m looking to collaborate on project to create a new interactive social platform to meet recent needs
 - 📫 How to reach me
 - 😄 Pronouns: ...
